@@ -3,8 +3,6 @@
 ## ENSE 375 - Software Testing and Validation - Laboratory
 
 # Lab 4: Introduction to DevOps
-## Li Pan 200371281
-
 
 </div>
 
