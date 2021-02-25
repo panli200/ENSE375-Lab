@@ -6,21 +6,6 @@
 
 </div>
 
----
-
-l-pan-200371281-ense375-l4
-|
-|-bin/
-|-src/
-|    |-Prime
-|    
-|-test/
-|     |-PrimeTest
-|
-|-readme.md
-|-build.gradle
-
----
 
 
 Build  with
