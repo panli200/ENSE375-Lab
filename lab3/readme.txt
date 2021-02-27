@@ -1,7 +1,3 @@
-Li Pan
-200371281
-ENSE375Lab3
-
 Please compile following these commands:
 
 javac -d bin ./src/DateValidator.java
