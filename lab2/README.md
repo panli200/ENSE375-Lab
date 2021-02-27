@@ -2,8 +2,7 @@
 
 ## ENSE 375 - Software Testing and Validation - Laboratory
 
-# Lab 4: Introduction to DevOps
-
+# Lab 2: Introduction to JUnit
 </div>
 
 
