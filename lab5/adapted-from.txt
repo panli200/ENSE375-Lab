@@ -1,0 +1,23 @@
+Code adapted from:
+
+N. Singh, instack.in
+
+Both a video and a text description are included in this link:
+
+https://www.codementor.io/@nitishk72/flutter-bmi-calculator-app-1dlnjlhy6e
+
+---
+
+To use these files, create a new flutter app
+
+```
+flutter create bmi_calculator
+```
+
+then place these files into the directory `bmi_calculator/lib`
+
+finally, run the app by opening a terminal in the project directory `bmi_calculator/` and running:
+
+```
+flutter run
+```
