@@ -9,3 +9,5 @@
 * [Lab Document](https://github.com/adamtilson/ense375/blob/main/lab-3/lab-doc.md)
 4. [Lab 4: Introduction to DevOps](https://github.com/panli200/ENSE375-Lab/tree/main/lab4)
 * [Lab Document](https://github.com/adamtilson/ense375/blob/main/lab-4/lab-doc.md)
+5. [Lab 5: Introduction to DevOps](https://github.com/panli200/ENSE375-Lab/tree/main/lab5)
+* [Lab Document](https://github.com/adamtilson/ense375/blob/main/lab-5/lab-doc.md)
